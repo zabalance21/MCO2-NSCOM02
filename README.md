@@ -5,7 +5,7 @@
 | Member | Usage |
 |------|---------|
 | Ronin Zerna | Used Claude to understand ICMP concepts (sequence numbers, RTT, checksum) and troubleshoot when encountering any errors |
-| Andre Junsay |  |
+| Andre Junsay | Used Gemini for troubleshooting and clarifying the last test case with dlsu.edu.ph |
 
 ## References
 - RFC 792 — Internet Control Message Protocol: [https://datatracker.ietf.org/doc/html/rfc792](https://datatracker.ietf.org/doc/html/rfc792)
